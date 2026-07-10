@@ -2,7 +2,6 @@ alias v=hx
 alias vim=hx
 alias c=clear
 alias ff=fastfetch
-alias cs="c && ff && cowsay \"I use Windows btw\""
 alias l="ls --color=auto"
 alias la="ls -larth"
 alias clock="tock -cms"
