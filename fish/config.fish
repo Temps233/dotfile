@@ -24,7 +24,6 @@ fish_add_path "$BUN_INSTALL/bin"
 
 fish_add_path $HOME/.cargo/bin
 fish_add_path /usr/local/go/bin
-fish_add_path /home/revtemps/.local/share/pnpm
 
 /home/linuxbrew/.linuxbrew/bin/brew shellenv | .
 
